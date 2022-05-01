@@ -1,1 +1,27 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    font-family:  'Nunito', sans-serif;;
+}
+.header{
+    font size: 60px;
+    color: #EC4067;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+.core{
+    color: #EC4067;
+}
+.roll{
+    border: 1px none #EC4067;
+    background-color: #EC4067;
+    border-radius: 5px;
+    width: auto;
+    
+    
+    padding-bottom: 2px;
+}
+
 
