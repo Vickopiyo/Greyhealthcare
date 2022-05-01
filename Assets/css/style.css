@@ -4,8 +4,13 @@
     font-family:  'Nunito', sans-serif;;
 }
 .header{
-    font size: 60px;
+    font size: 400px;
     color: #EC4067;
+    
+}
+.pn{
+    color: black;
+
 }
 ul{
     display: flex;
@@ -44,4 +49,46 @@ ul{
 .pos{
     text-align: center;
 }
+.pic{
+    list-style: none;
+    display: flex;
+}
+.
 
+}
+
+    
+}
+.np{
+    color: #EC4067;
+    
+}
+
+}
+#id{
+    background-color: #EC4067;
+    border: 1px solid #EC4067;
+}
+.flex{
+    display: flex;
+    width: 300px;
+    height: 200px;
+    border border-radius: 5px;
+}
+.left{
+    width: 500px;
+    height: 400px;
+}
+#side{
+    float: right;
+    margin: 100px;
+}
+.fl{
+    float: left;
+    display: inline-block;
+}
+a:hover{
+    background-color: white;
+}
+
+    
