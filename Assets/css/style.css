@@ -32,5 +32,16 @@ ul{
    width: fit-content;
     
 }
-
+.area{
+    display: flex
+}
+.bike{
+    color: #EC4067;
+}
+.sure{
+    color: #EC4067;
+}
+.pos{
+    text-align: center;
+}
 
