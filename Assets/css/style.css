@@ -21,7 +21,16 @@ ul{
     width: auto;
     
     
-    padding-bottom: 2px;
+    
+}
+.topic{
+    border: 1px none #EC4067;
+    background-color: #EC4067;
+    border-radius: 5px;
+    width: auto;
+   padding: 8px;
+   width: fit-content;
+    
 }
 
 
