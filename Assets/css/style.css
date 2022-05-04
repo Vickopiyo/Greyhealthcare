@@ -1,95 +1,52 @@
 *{
-    margin: 5px;
-    padding: 5px;
-    font-family:  'Nunito', sans-serif;;
-}
-.header{
-    font size: 400px;
-    color: #EC4067;
+    font-family: 'Nunito', sans-serif;
     
-}
-.pn{
-    color: black;
 
+}
+span{
+    color: #EC4067;
+}
+h2{
+    font-size: x-large;
 }
 ul{
     display: flex;
-    list-style: none;
+    list-style-type: none;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 5px;
 }
-.core{
-    color: #EC4067;
+li{
+    
+    padding: 20px;
 }
-.roll{
-    border: 1px none #EC4067;
+header{
+    display: flex;
+}
+.li1{
     background-color: #EC4067;
-    border-radius: 5px;
-    width: auto;
-    
-    
-    
+    margin left: 10px;
+    padding: 15px; 
+
+}
+.img1{
+    height: 300px;
+    width: 500px;
+    display: flex;
+}
+.img2{
+    height: 200px;
+    width: 300px;
+
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 100px;
+
 }
 .topic{
-    border: 1px none #EC4067;
-    background-color: #EC4067;
-    border-radius: 5px;
-    width: auto;
-   padding: 8px;
-   width: fit-content;
-    
-}
-.area{
-    display: flex
-}
-.bike{
-    color: #EC4067;
-}
-.sure{
-    color: #EC4067;
-}
-.pos{
-    text-align: center;
-}
-.pic{
-    list-style: none;
     display: flex;
 }
-.
-
-}
-
-    
-}
-.np{
-    color: #EC4067;
-    
-}
-
-}
-#id{
-    background-color: #EC4067;
-    border: 1px solid #EC4067;
-}
-.flex{
-    display: flex;
-    width: 300px;
-    height: 200px;
-    border border-radius: 5px;
-}
-.left{
-    width: 500px;
-    height: 400px;
-}
-#side{
-    float: right;
-    margin: 100px;
-}
-.fl{
-    float: left;
-    display: inline-block;
-}
-a:hover{
-    background-color: white;
-}
-
-
-    
