@@ -1,5 +1,5 @@
 *{
-    font-family: 'poppins', sans-serif;
+    font-family: 'Nunito', sans-serif;
 }
 span{
     color: #EC4067;
@@ -20,7 +20,7 @@ h1{
 .img-header{
     color: #EC4067;
     font-weight: bolder;
-    font
+    
 }
 h2{
     font-size: x-large;
@@ -111,6 +111,14 @@ section{
     
     text-align: center;
     font-weight: 800px;
+}
+i{
+    color: #EC4067;
+}
+.lastsection{
+    background: rgb(201, 198, 198);
+    text-align: center;
+    padding: 100px;
 }
 .pro{
     font-size: x-large;
