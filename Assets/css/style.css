@@ -1,13 +1,38 @@
 *{
     font-family: 'Nunito', sans-serif;
+    padding: ;
+  
+    
+    
     
 
 }
 span{
     color: #EC4067;
 }
+h1{
+    font-size: 2rem;
+}
+.Question{
+    color: #EC4067;
+
+}
+.btn{
+    background-color: #EC4067;
+    color: azure;
+    padding: 5px;
+    border-radius: 5px;
+}
+.img-header{
+    color: #EC4067;
+    font-weight: bolder;
+    font
+}
 h2{
     font-size: x-large;
+}
+.subheader{
+    color: #EC4067;
 }
 ul{
     display: flex;
@@ -19,15 +44,20 @@ ul{
 }
 li{
     
-    padding: 20px;
+padding: 20px;
 }
 header{
     display: flex;
 }
-.li1{
+.enroll-link{
     background-color: #EC4067;
-    margin left: 10px;
-    padding: 15px; 
+    margin-left: 10px;
+    padding:20px 30px;
+    text-align: center;
+    border-radius: 10px;
+
+    
+
 
 }
 .img1{
@@ -37,16 +67,48 @@ header{
 }
 .img2{
     height: 200px;
-    width: 300px;
+    width: 260px;
 
 }
 section{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-left: 50px;
     margin-right: 100px;
 
 }
 .topic{
     display: flex;
+}
+.mag{
+    justify-content: space-between;
+}
+.mag div{
+    padding: 10px;
+}
+.img2{
+    margin: 4px;
+}
+.good{
+    display: inline-flex;
+}
+.bike{
+    display: flex;
+    justify-content: center;
+}
+.f{
+    
+    text-align: center;
+    font-weight: 800px;
+}
+.pro{
+    font-size: x-large;
+    font-weight: 600px;
+}
+@media (max-width=700px ){
+    .mag{
+        justify-content: space-between;
+        overflow:scroll;
+    }
+    
 }
